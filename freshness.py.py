@@ -94,4 +94,4 @@ def detect_and_classify(image_path):
 # ==============================
 if __name__ == "__main__":
     # Replace with your image path
-    detect_and_classify("/content/banana.webp")
+    detect_and_classify("banana.jpeg")
